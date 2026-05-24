@@ -11,24 +11,12 @@ Frontend: React, Tailwind CSS, Monaco Code Editor
 Backend: Node.js, Express.js
 Database: MongoDB
 Preview Engine: Web Containers
-📸 Screenshots
-Home Page
-
-Home Page
-
-Code Editor
-
-Code Editor
-
-Preview Section
-
-Preview Section
 
 📥 Installation
 Follow these steps to set up Webify-AI on your local machine:
 
 1️⃣ Clone the repository
-git clone https://github.com/KushalSharmaGit/Webify-Ai.git
+git clone https://github.com/Trillionaretanker/Webify/tree/main
 cd Webify-AI
 2️⃣ Install dependencies
 npm install
